@@ -25,3 +25,5 @@ ax.plot(x, y, 'o', color='tab:brown')
 plt.savefig('test_plot.png')
 
 print('done')
+
+print('done again')
